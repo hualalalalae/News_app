@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable_shoucang.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\drawable\\shoucang.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-anydpi-v21_ic_full_screen.xml.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-anydpi-v21\\ic_full_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-xhdpi_ic_video.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-xhdpi\\ic_video.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable_text_cursor_drawable.xml.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\drawable\\text_cursor_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-xxhdpi_ic_email.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-xxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-xxhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-xxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable_bg.jpg.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\drawable\\bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-hdpi_ic_video.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-hdpi\\ic_video.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable_zhanghaoming.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\drawable\\zhanghaoming.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\layout_fragment_user.xml.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\layout\\fragment_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\layout_fragment_news.xml.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\layout\\fragment_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\layout_show_list.xml.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\layout\\show_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable_touxiang.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\drawable\\touxiang.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\layout_content_collect.xml.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\layout\\content_collect.xml"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\layout_activity_search.xml.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-xxhdpi_ic_video.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-xxhdpi\\ic_video.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-anydpi-v21_ic_video.xml.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-anydpi-v21\\ic_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-xxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-xxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable_mima.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\drawable\\mima.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-anydpi-v21_app_icon.xml.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-anydpi-v21\\app_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-mdpi_ic_video.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-mdpi\\ic_video.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-anydpi-v21_ic_search.xml.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-anydpi-v21\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-ldpi_ic_full_screen.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-ldpi\\ic_full_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-xhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-xhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable_sex.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\drawable\\sex.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable_username_icon.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\drawable\\username_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-xhdpi_ic_email.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-xhdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-ldpi_ic_video.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-ldpi\\ic_video.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-mdpi_app_icon.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-hdpi_ic_email.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-hdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\layout_footer_view.xml.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\layout\\footer_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-mdpi_ic_home.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\menu_home_tool_bar_menu.xml.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\menu\\home_tool_bar_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-hdpi_ic_home.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\layout_fragment_video.xml.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\layout\\fragment_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-xxhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "com.app-merged_res-40:/layout_activity_main.xml.flat",
+        "source": "com.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-ldpi_ic_email.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-ldpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-xxxhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-xxxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-ldpi_app_icon.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-ldpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable_version.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\drawable\\version.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-anydpi-v21_ic_home.xml.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-anydpi-v21\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-xhdpi_ic_full_screen.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-xhdpi\\ic_full_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-xxxhdpi_ic_user.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-xxxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\layout_news_item_one_image.xml.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\layout\\news_item_one_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-xxxhdpi_ic_email.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-xxxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-hdpi_ic_user.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-hdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-xxxhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-xxxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-xxxhdpi_ic_full_screen.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-xxxhdpi\\ic_full_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-mdpi_ic_search.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-mdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable_collecting.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\drawable\\collecting.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-ldpi_ic_user.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-ldpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-hdpi_ic_full_screen.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-hdpi\\ic_full_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-ldpi_ic_home.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-ldpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-xxhdpi_ic_full_screen.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-xxhdpi\\ic_full_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-xxxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-xxxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\layout_activity_modify_psw.xml.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\layout\\activity_modify_psw.xml"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\menu_detail_tool_bar_menu.xml.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\menu\\detail_tool_bar_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\layout_activity_collect.xml.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\layout\\activity_collect.xml"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-xxxhdpi_ic_video.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-xxxhdpi\\ic_video.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-anydpi-v21_ic_email.xml.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-anydpi-v21\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-hdpi_ic_search.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable_news_image.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\drawable\\news_image.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-xhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-mdpi_ic_user.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-mdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\layout_news_item_three_images.xml.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\layout\\news_item_three_images.xml"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-ldpi_ic_search.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-ldpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-xxhdpi_ic_user.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-xxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-anydpi-v21_ic_user.xml.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-anydpi-v21\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable_collect.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\drawable\\collect.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-xhdpi_ic_user.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-xhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-mdpi_ic_full_screen.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-mdpi\\ic_full_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-xhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-xhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-hdpi_app_icon.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable_username.jpg.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-main-42:\\drawable\\username.jpg"
+    },
+    {
+        "merged": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-merged_res-40:\\drawable-mdpi_ic_email.png.flat",
+        "source": "C:\\Users\\肖哗\\.gradle\\daemon\\7.4\\com.app-pngs-35:\\drawable-mdpi\\ic_email.png"
+    }
+]

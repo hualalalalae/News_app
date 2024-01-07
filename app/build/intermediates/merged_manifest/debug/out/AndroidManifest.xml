@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.app"
+    android:versionCode="1"
+    android:versionName="1.4" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="30" />
+    <!-- 获取网络信息 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 访问网络 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 访问SD卡 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <!-- android:networkSecurityConfig="@xml/network_security_config" 配置http支持 -->
+    <!-- android:name=".NewsApplication" 注册自定义的Application  方便获取Context -->
+    <application
+        android:name="com.app.NewsApplication"
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@drawable/app_icon"
+        android:label="@string/app_name"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:roundIcon="@drawable/app_icon"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.News" >
+        <activity android:name="com.app.ui.activity.LoginActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.app.ui.activity.DetailActivity" />
+        <activity android:name="com.app.ui.activity.SearchActivity" />
+        <activity android:name="com.app.ui.activity.MainActivity" />
+        <activity
+            android:name="com.glance.guolindev.ui.db.DBActivity"
+            android:icon="@mipmap/glance_library_ic_launcher"
+            android:label="@string/glance_library_glance"
+            android:roundIcon="@mipmap/glance_library_ic_launcher_round"
+            android:taskAffinity="com.glance.guolindev.com.app"
+            android:theme="@style/GlanceLibraryActivityTheme" />
+
+        <activity-alias
+            android:name="com.glance.guolindev.ui.db.DBActivityLauncher"
+            android:icon="@mipmap/glance_library_ic_launcher"
+            android:label="@string/glance_library_glance"
+            android:targetActivity="com.glance.guolindev.ui.db.DBActivity"
+            android:taskAffinity="com.glance.guolindev.com.app" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity-alias>
+
+        <activity
+            android:name="com.glance.guolindev.ui.table.TableActivity"
+            android:exported="false"
+            android:theme="@style/GlanceLibraryActivityTheme" />
+        <activity
+            android:name="com.glance.guolindev.ui.data.DataActivity"
+            android:exported="false"
+            android:theme="@style/GlanceLibraryActivityTheme" />
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.app.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="com.glance.guolindev.initializer.GlanceInitializer"
+                android:value="androidx.startup" />
+        </provider>
+        <provider
+            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+            android:authorities="com.app.lifecycle-process"
+            android:exported="false"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>
